@@ -12,4 +12,4 @@ browser.find_element_by_xpath('//*[@id="Form1"]/header/div/div/div/div[2]/div/bu
 browser.find_element_by_xpath('//*[@id="Form1"]/div[8]/div/div/div/div[1]/input').send_keys("planilha de resultados");
 browser.find_element_by_xpath('//*[@id="Form1"]/div[8]/div/div/div/div[1]/input').send_keys(Keys.ENTER);
 browser.find_element_by_xpath('//*[@id="recebeLink"]').click();
-browser.find_elements_by_xpath('//*[@id="52UstABBxF8k7Q9IXxA3iw=="]').Click(execute);
+browser.find_element_by_xpath('//*[@id="52UstABBxF8k7Q9IXxA3iw=="]').click();
